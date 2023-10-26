@@ -1,5 +1,3 @@
-# hello_pyalter
-
 # How to use pyalter
 
 ## move axes
